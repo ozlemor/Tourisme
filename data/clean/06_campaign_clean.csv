@@ -1,0 +1,8 @@
+country,destination,campaign_budget,conversion_rate,roi,status,status_coherent
+Spain,City_10,75000.0,0.03,220000,FAIL,False
+Spain,City_43,,0.08,200000,FAIL,False
+Portugal,City_21,30000.0,0.055,150000,SUCCESS,True
+France,City_3,50000.0,0.02,120000,SUCCESS,True
+Italy,City_7,,0.12,80000,SUCCESS,True
+France,City_17,20000.0,0.15,10000,SUCCESS,True
+Japan,City_40,100000.0,0.01,5000,TOP_PERFORMER,True
